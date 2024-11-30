@@ -1,4 +1,5 @@
 # Sorting
 
-Tested selection sort algorithms for vector and templated linked list data structures.
+Selection sort algorithms for vector and templated linked list data structures.
+
 By: Kang Lee, Ching-Chieh(Nina) Chiu, Sahid Sheriff
